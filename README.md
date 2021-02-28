@@ -1,0 +1,2 @@
+# rentaloo.mx
+proyecto colaborativo
